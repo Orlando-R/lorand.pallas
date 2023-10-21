@@ -1,1 +1,2 @@
 # lorand.pallas
+# lorand böngészö

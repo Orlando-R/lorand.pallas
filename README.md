@@ -7,3 +7,4 @@
 =======
 # konfliktus vs code masodik
 # aaaab
+# pallas.kiprobalom

@@ -2,4 +2,4 @@
 # lorand böngészö
 # kiprobalom
 # modositas
-# konfliktus vs code
+# konfliktus kiprobalom
